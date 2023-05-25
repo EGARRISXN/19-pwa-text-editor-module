@@ -1,6 +1,6 @@
 # 19-pwa-text-editor-module
 
-You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
+Click here for the application through [Heroku](https://agile-reef-19425.herokuapp.com/) or the repository through [Github](https://github.com/EGARRISXN/19-pwa-text-editor-module) !
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
