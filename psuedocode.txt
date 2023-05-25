@@ -1,0 +1,15 @@
+// You will be working in webpack.config.js, install.js, database.js, src-sw.js, and package.json(root and client) - (double check other files, though).
+
+// src-sw.js -- what other workbox-strategies will you need to import to finish the register route logic? refer to miniProject
+
+// webpack.config.js --- refer to miniProject
+
+// install.js --- refer to miniProject
+
+// database.js --- refer to miniProject - this will be a refactor for your purposes - PUT vs POST etc..
+
+//package.json --- in the root and client - you will need to get the dependencies setup (client), remove express dependency(root), and write the scripts for both... refer to miniProject
+
+
+
+"heroku-prebuild": "npm install --dev"
